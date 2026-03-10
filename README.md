@@ -1,6 +1,6 @@
 # Culling Helper
 
-A simple command-line tool to help with photo culling by copying images that have corresponding .xmp files to a "Selected" folder.
+A simple command-line tool I build to help my girlfirend with photo culling by copying images that have corresponding .xmp files to a "Selected" folder.
 
 ## Features
 
